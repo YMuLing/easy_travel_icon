@@ -1,0 +1,11 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6.55 10.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+    </style>
+  </defs>
+  <title>popup</title>
+  <path class="cls-1" d="M515.52,492.1a.65.65,0,0,1-.44-1.13l4.73-4.33-4.73-4.34a.65.65,0,1,1,.88-.95l5.25,4.81a.63.63,0,0,1,.21.48.64.64,0,0,1-.21.48L516,491.93A.66.66,0,0,1,515.52,492.1Z" transform="translate(-514.87 -481.17)"/>
+</svg>
